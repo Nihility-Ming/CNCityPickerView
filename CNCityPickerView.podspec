@@ -25,6 +25,4 @@ s.platform     = :ios, "6.0"
 s.source       = { :git => "https://github.com/Nihility-Ming/CNCityPickerView.git", :tag => "0.0.1" }
 s.source_files  = "Classes/*"
 
-s.public_header_files = 'Classes/**/*.h'
-
 end
