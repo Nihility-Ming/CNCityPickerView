@@ -24,6 +24,6 @@ s.author       = { "Bi Weiming" => "weiming.bi@yahoo.com" }
 s.platform     = :ios, "7.0"
 s.source       = { :git => "https://github.com/Nihility-Ming/CNCityPickerView.git", :tag => "0.0.1" }
 
-s.source_files  = "CNCityPickerView/*"
+s.source_files = 'CNCityPickerViewExample/CNCityPickerView/*'
 
 end
