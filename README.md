@@ -49,4 +49,4 @@ pod 'CNCityPickerView'
 
 # License
 
-CNCityPickerView is available under the GPL license.
+CNCityPickerView is available under the MIT license.
