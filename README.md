@@ -1,10 +1,8 @@
 # CNCityPickerView
 
-A support of IB and code to create custom very high level Chinese City Selector.
+<p align="center"><img src="screenshot.gif" /></p>
 
-<p align="center">
-  <img src="screenshot.gif" />
-</p>
+A support of Interface Builder and code to create custom very high level Chinese City Selector.
 
 # Usage
 
